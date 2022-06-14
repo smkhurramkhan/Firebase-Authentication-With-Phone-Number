@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase PhoneNumber Authentication</string>
+    <string name="please_wait">Please Wait</string>
+</resources>
