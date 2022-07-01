@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
                     this,
                     "Please enter OTP",
                     Toast.LENGTH_SHORT
-                ).show();
+                ).show()
             } else {
                 showDialog()
                 verifyCode(mainActivityBinding.idEdtOtp.text.toString())
